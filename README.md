@@ -83,4 +83,4 @@ This dashboard empowers business stakeholders to:
 
 ---
 Demo of Amazon Sales Analysis Dashboard:
-![image](https://github.com/chinmaysahoo18/Amazon-Product-Sales-Project/blob/6e984575cb6313621cb7fd0e55bdb2f78b07edf8/Snapshot%20of%20This%20Dashboard%20(2).png)
+![image](https://github.com/chinmaysahoo18/Amazon-Product-Sales-Project/blob/db20259d009df9729282daa0f9df36e498ba1adf/Dashboard%20Snapshot.png)
